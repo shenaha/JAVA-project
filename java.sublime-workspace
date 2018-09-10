@@ -1,0 +1,1316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resu",
+				"result2"
+			],
+			[
+				"dept",
+				"depthFrame"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"dep",
+				"depthFrame"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"clippi",
+				"clippingDist"
+			],
+			[
+				"g",
+				"greeting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Circle.class",
+			"settings":
+			{
+				"buffer_size": 5955,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Circle.java",
+			"settings":
+			{
+				"buffer_size": 1658,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "City.class",
+			"settings":
+			{
+				"buffer_size": 4505,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "City.java",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data.txt",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DrawingContent.class",
+			"settings":
+			{
+				"buffer_size": 6450,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DrawingContent.java",
+			"settings":
+			{
+				"buffer_size": 1355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "InputStringReader.class",
+			"settings":
+			{
+				"buffer_size": 8797,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "InputStringReader.java",
+			"settings":
+			{
+				"buffer_size": 2555,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Label.class",
+			"settings":
+			{
+				"buffer_size": 1790,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Label.java",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Main.class",
+			"settings":
+			{
+				"buffer_size": 19267,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Main.java",
+			"settings":
+			{
+				"buffer_size": 10980,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Point.class",
+			"settings":
+			{
+				"buffer_size": 4257,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Point.java",
+			"settings":
+			{
+				"buffer_size": 1095,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Polygon.class",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Polygon.java",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Polyline.class",
+			"settings":
+			{
+				"buffer_size": 2217,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Polyline.java",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Rectangle.class",
+			"settings":
+			{
+				"buffer_size": 5767,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rectangle.java",
+			"settings":
+			{
+				"buffer_size": 1399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Shape.class",
+			"settings":
+			{
+				"buffer_size": 2845,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Shape.java",
+			"settings":
+			{
+				"buffer_size": 636,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SimpleFrame.class",
+			"settings":
+			{
+				"buffer_size": 4705,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SimpleFrame.java",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SimplePanel.class",
+			"settings":
+			{
+				"buffer_size": 10697,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SimplePanel.java",
+			"settings":
+			{
+				"buffer_size": 3577,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/coper/Snapgraph/preprocessOneByOne.py",
+		"/D/coper/CopernicusProject-master/FalsePositive.py",
+		"/D/SarImg/TRY1.py",
+		"/C/Users/HP/Desktop/LBS/########## LBS #########",
+		"/D/SarImg/try3.py",
+		"/D/SarImg/wd.py",
+		"/D/coper/CopernicusProject-master/AssessmenCorine.py",
+		"/D/coper/grpB_scripts/Water_detection_functions.py",
+		"/D/coper/Copernicus-WaterDetection-master/IMG_to_TIF.py",
+		"/D/coper/Copernicus-WaterDetection-master/deleteErrorFiles.py",
+		"/D/coper/grpB_scripts/main_script.py",
+		"/D/coper/Copernicus-WaterDetection-master/AWSFunctions.py",
+		"/D/coper/grpB_scripts/new_script_for_accuracy_assessment.py",
+		"/D/SarImg/cgo/util.py",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa8008.10264/accassess.py",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa8008.12035/error_matrix.py",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa8008.12739/raster_handling.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/check_ESA_SciHub.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/ESA_SciHub.py",
+		"/C/Users/HP/Desktop/LBS/lamberti church",
+		"/C/Users/HP/Desktop/lamberti church",
+		"/C/Users/HP/Desktop/########## LBS #########",
+		"/C/Users/HP/Desktop/Intro2GIS/Intro2GIS.docx",
+		"/D/SarImg/isoClustering.py",
+		"/D/kray_project/jshand/SP-RCARAP-master/video.js",
+		"/D/copernicus/watdet.py",
+		"/D/kray_project/jshand/SP-RCARAP-master/transmission.js",
+		"/D/coper/Snapgraph/preprocessSequence.py",
+		"/D/coper/CopernicusProject-master/DownloadFiles.py",
+		"/D/coper/COPERNICUS-master/preprocessing.py",
+		"/C/Users/HP/Desktop/KreiseNRW.kst",
+		"/D/coper/consolidatedCode/waterDetection/1/cgoArc.py",
+		"/D/coper/consolidatedCode/waterDetection/wd.py",
+		"/D/kray_project/jshand/SP-RCARAP-master/main.js",
+		"/D/downloads/plot_threshold.py",
+		"/D/coper/Copernicus-WaterDetection-master/Water_detection_functions.py",
+		"/D/coper/Copernicus-WaterDetection-master/main_script.py",
+		"/D/kray_project/jshand/SP-RCARAP-master/handCoordinates.txt",
+		"/C/Users/HP/Desktop/coper/consolidatedCode/ingestion/polingsub.py",
+		"/C/Users/HP/AppData/Local/Temp/Rar$DIa2244.10956/main_script.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/preprocessOneByOne.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/batchExecution.py",
+		"/C/Users/HP/Desktop/coper/consolidatedCode/preprocessing/cgoSNAP.py",
+		"/C/Users/HP/Desktop/coper/consolidatedCode/ingestion/list.py",
+		"/C/Users/HP/Desktop/coper/obs-s3-master/python/otc-download.py",
+		"/C/Users/HP/Desktop/coper/obs-s3-master/python/otc-createbucket.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/AWSFunctions.py",
+		"/C/Users/HP/Desktop/coper/consolidatedCode/ingestion/purge.py",
+		"/C/Users/HP/Desktop/coper/preprocessing.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/preprocessSequence.py",
+		"/C/Users/HP/Desktop/coper/DownloadFiles.py",
+		"/C/Users/HP/Desktop/coper/grpB_scripts/IMG_to_TIF.py",
+		"/C/Users/HP/Desktop/coper/grpB_scripts/getFileCount.py",
+		"/C/Users/HP/Desktop/coper/consolidatedCode/preprocessing/ses.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/__init__.py",
+		"/C/Users/HP/Desktop/coper/Snapgraph/preprocessExceptions.py",
+		"/C/Users/HP/Desktop/coper/grpB_scripts/main_script.py",
+		"/C/Users/HP/Desktop/coper/grpB_scripts/deleteErrorFiles.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/load_shapefile_aoi.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/check_geometry.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/catalogue_shapefile.py",
+		"/D/downloads/Polarnix-check-esa-scihub-bfd7b9afc4d6/Python/S2_functions.py",
+		"/D/copernicus/grpB_scripts/main_script.py",
+		"/C/Users/HP/Desktop/coper/Snap graph/batchExecution.py",
+		"/C/Users/HP/Desktop/download.py",
+		"/C/Users/HP/Desktop/sentinelDL.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/batchExecution.py",
+		"/C/Users/HP/Desktop/coper/CopernicusProject-master/DownloadFiles.py",
+		"/C/Users/HP/Desktop/coper/CopernicusProject-master/MailSend.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Tesselation.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/preprocessSequence.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/preprocessOneByOne.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/preprocessExceptions.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/MailSend.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/catch_errors.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snap graph/batchExecution.py",
+		"/C/Users/HP/Desktop/coper/prepro.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/preprocessing.py",
+		"/C/Users/HP/Desktop/coper/grpB_scripts/AWSFunctions.py",
+		"/C/Users/HP/Desktop/coper/COPERNICUS-master/Snapgraph/__init__.py",
+		"/C/Users/HP/Desktop/coper/snappy_basic.py",
+		"/C/Users/HP/Desktop/coper/preproSNAPPY.py",
+		"/C/Python27/Lib/site-packages/snappy/SnapPy.pyd",
+		"/C/Users/HP/.snap/snap-python/snappy/snappyutil.py",
+		"/C/Users/HP/.snap/snap-python/snappy/setup.py",
+		"/C/Users/HP/.snap/snap-python/snappy/__init__.py",
+		"/C/Users/HP/Downloads/COPERNICUS-master/Snapgraph/preprocessSequence.py",
+		"/C/Users/HP/Downloads/COPERNICUS-master/Snap graph/batchExecution.py",
+		"/C/Users/HP/Downloads/COPERNICUS-master/Snapgraph/preprocessOneByOne.py",
+		"/C/Users/HP/Downloads/preproSNAPPY.py",
+		"/C/Users/HP/Downloads/prepro.py",
+		"/C/Users/HP/Downloads/COPERNICUS-master/preprocessing.py",
+		"/C/Users/HP/Downloads/CopernicusProject-master/DownloadFiles.py",
+		"/C/Users/HP/Downloads/jager.js",
+		"/C/Users/HP/Downloads/index.html",
+		"/D/copernicus/grpB_scripts/.ipynb_checkpoints/Water_detection_functions-checkpoint.py",
+		"/D/copernicus/grpB_scripts/Water_detection_functions.py",
+		"/C/Users/HP/Downloads/COPERNICUS-master/Tesselation.py",
+		"/D/kray_project/jshand/SP-RCARAP-master/videoBackup.js",
+		"/D/kray_project/jshand/node_modules/node-librealsense/examples/nodejs-save-to-disk.js",
+		"/D/kray_project/jshand/node_modules/node-librealsense/examples/glfw-window.js",
+		"/D/kray_project/jshand/node_modules/node-librealsense/examples/nodejs-pointcloud.js",
+		"/D/kray_project/jshand/node_modules/node-librealsense/examples/nodejs-capture.js",
+		"/D/kray_project/jshand/node_modules/node-librealsense/examples/nodejs-align.js",
+		"/D/kray_project/jshand/SP-RCARAP-handrecognition/realsense/index.js",
+		"/D/kray_project/jshand/SP-RCARAP-handrecognition/realsense/app.js",
+		"/D/kray_project/jshand/SP-RCARAP-handrecognition/realsense/handGestureRecognition02.js",
+		"/D/kray_project/jshand/SP-RCARAP-handrecognition/realsense/handrecog.js",
+		"/D/kray_project/jshand/SP-RCARAP-handrecognition/realsense/utils.js",
+		"/C/Users/HP/Downloads/SP-RCARAP-handrecognition/realsense/handrecog.js",
+		"/C/Users/HP/Downloads/SP-RCARAP-handrecognition/realsense/index.js",
+		"/C/Users/HP/Downloads/SP-RCARAP-handrecognition/realsense/utils.js",
+		"/C/Users/HP/Downloads/SP-RCARAP-handrecognition/SP-RCARAP-handrecognition/realsense/index.js",
+		"/D/copernicus/consolidatedCode/waterDetection/wd.py",
+		"/D/copernicus/consolidatedCode/waterDetection/1/cgoArc.py",
+		"/C/SimpleCV1.3/files/librealsense-2.10.4/wrappers/nodejs/examples/nodejs-capture.js",
+		"/D/index.html",
+		"/D/package.json",
+		"/D/myapp.js",
+		"/D/index.html.txt",
+		"/D/HelloWorld.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 105.333333333,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 26,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Circle.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Circle.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "City.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "City.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "data.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "DrawingContent.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "DrawingContent.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "InputStringReader.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "InputStringReader.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Label.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Label.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Main.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Main.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Point.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Point.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Polygon.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Polygon.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Polyline.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Polyline.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Rectangle.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Rectangle.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Shape.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Shape.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "SimpleFrame.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "SimpleFrame.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "SimplePanel.class",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "SimplePanel.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "java.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
